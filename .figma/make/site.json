@@ -1,0 +1,10 @@
+{
+  "description": "Kelola dokumen SDLC proyek, versi, tugas, review, dan persetujuan dalam satu platform untuk membantu tim menjaga kelengkapan dan progres dokumentasi.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
